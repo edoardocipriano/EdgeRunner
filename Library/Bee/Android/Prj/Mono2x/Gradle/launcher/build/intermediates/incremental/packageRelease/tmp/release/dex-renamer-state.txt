@@ -1,0 +1,4 @@
+#Thu Aug 15 22:34:08 CEST 2024
+base.0=/Users/edoardocipriano/Unity/EdgeRunner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
